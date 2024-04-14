@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @amar-rakhpasre
+- 👀 I’m interested in web development, software engineering, and building impactful projects.
+- 🌱 I’m currently on an exciting learning journey to master various web technologies, including HTML, CSS, JavaScript, Node.js, Express.js, React.js, Next.js, and TypeScript.
+- 💼 I’m eager to collaborate on open-source projects and contribute to the tech community while honing my skills.
+- 📫 You can reach me via email at [your-email@example.com](mailto:rakhpasreamar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amar-rakhpasre/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy hiking, playing the guitar, and exploring new coding challenges!
