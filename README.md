@@ -21,7 +21,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 - ⚡ Fact **"Remember,,, Why you started."**
 
 <hr>
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+<!-- <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300"> -->
 
 ## :zap: Skills
 <a href="https://www.linux.org/" target="_blank">
