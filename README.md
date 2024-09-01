@@ -1,55 +1,50 @@
-# 👋 Hello, I'm Amar Rakhpasre
+# 👋 Hi, I’m [@amar-rakhpasre](https://github.com/amar-rakhpasre)
 
-![DevOps](https://img.shields.io/badge/DevOps-0078D6?style=for-the-badge&logo=devops&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-FF6F61?style=for-the-badge&logo=html5&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-4285F4?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+Welcome to my DevOps profile!
 
----
+## About Me
+- 🌟 **DevOps Enthusiast**: Passionate about continuous learning and mastering DevOps tools.
+- 🚀 **Tech Stack**: Currently exploring and implementing tools and technologies like:
+  - **Linux**: Deepening my knowledge of the Linux operating system.
+  - **AWS Cloud**: Learning AWS services and best practices.
+  - **SSH**: Understanding secure shell operations and configurations.
+  - **Networking**: Enhancing my networking skills and protocols.
+  - **Kubernetes**: Gaining expertise in container orchestration.
+  - **Terraform**: Mastering infrastructure as code (IaC) with Terraform.
+  - **JavaScript**: Developing interactive web applications and enhancing front-end skills.
+  - **Java**: Building robust and scalable back-end solutions.
 
-## 👀 About Me
-I'm a passionate developer with a keen interest in web development, software engineering, and building impactful projects. I'm always eager to learn new technologies and enhance my skill set.
+## What I'm Working On
+- 🌱 **Learning Journey**: Diving deep into web technologies such as HTML, CSS, JavaScript, Node.js, Express.js, React.js, Next.js, and TypeScript.
+- 💼 **Collaborations**: Eager to contribute to open-source projects and collaborate with the tech community.
+- 📚 **Daily Learning**: Continuously expanding my skill set and exploring new tools and technologies in the DevOps domain.
 
-## 🌱 Learning Journey
-I'm currently mastering various web technologies, including:
+## How to Reach Me
+- 📧 Email: [rakhpasreamar@gmail.com](mailto:rakhpasreamar@gmail.com)
+- 🌐 LinkedIn: [amar-rakhpasre](https://www.linkedin.com/in/amar-rakhpasre/)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-## 💼 Collaboration & Contributions
-I'm eager to collaborate on open-source projects and contribute to the tech community while honing my skills. Let's work together to create something amazing!
-
----
-
-## 📫 Let's Connect
-
-- **Email**: [rakhpasreamar@gmail.com](mailto:rakhpasreamar@gmail.com)
-- **LinkedIn**: [Amar Rakhpasre](https://www.linkedin.com/in/amar-rakhpasre/)
+## Fun Facts
+- 🎸 **Hobbies**: Enjoy hiking, playing the guitar, and tackling new coding challenges.
+- ⚡ **Pronouns**: He/Him
 
 ---
 
-## 😄 Pronouns: He/Him
+## Tools & Technologies
 
-## ⚡ Fun Fact
-When I'm not coding, you can find me hiking, playing the guitar, or exploring new coding challenges!
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ---
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-**💻 Let's Code Together!**
+Feel free to connect with me and follow my journey as I dive into these technologies and contribute to exciting projects!
