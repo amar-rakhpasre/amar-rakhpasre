@@ -13,12 +13,21 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <br>
 <br>
 
-- 🔭 I’m currently **learning Terraform, Kubernetes**
-- 📝 I regularly post articles on **Various DevOps Concepts**
+<!-- About Me Section -->
+## 🚀 About Me
 
-- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Terraform**
+- 👨‍💻 I'm a multi-lingual developer proficient in Python, Javascript, HTML, and Css.
+- 🌱 My first programming language was C, and I've been passionate about coding ever since.
+- 🔭 I'm constantly exploring new technologies and building exciting projects.
+- 💡 I believe in the power of technology to make the world a better place.
 
-- ⚡ Fact **"Remember,,, Why you started."**
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Bolo+Jai+Shree+Ram.)
+
+## 🛠️ Skills
+
+```javascript const mySkills = {                                                                                                                   LanguagePalette: ["Pythonic Wonders","JavaScript Sorcery (ES6+)"],                                                                                     WebArtistry: ["Canvas Crafting (HTML/CSS/JavaScript)", "Digital Wizardry (Flask/Django)" ],                                                           DataWhispers: [ "PostgreSQL Secrets", "Motor MongoDB (async enchantments)", "PyMongo (Mongo Magics)" ],                                         ExploringNewRealms: ["Mastery of Enigmatic JS Frameworks & Libraries", "Journeying through the Django Domain"],                                     SignatureStyle: ["React Revelations", "Crafting Code Elegance"]};
+```
+
 
 <hr>
 <p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
