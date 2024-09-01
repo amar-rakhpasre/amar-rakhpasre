@@ -108,7 +108,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <h1 align="center">Have an idea? Let's connect:</h1>
 
 <div align="center" gap="20px">
-<a href="www.linkedin.com/in/amar-rakhpasre-72b80928a">
+<a href="https://www.linkedin.com/in/amar-rakhpasre-72b80928a/">
 <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
 
