@@ -24,6 +24,13 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 &nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Bolo+Jai+Shree+Ram.)
  
 ## 🛠️ Skills
+- **LanguagePalette**: Pythonic Wonders, JavaScript Sorcery (ES6+)
+- **WebArtistry**: Canvas Crafting (HTML/CSS/JavaScript), Digital Wizardry (Flask/Django)
+- **DataWhispers**: PostgreSQL Secrets, Motor MongoDB (async enchantments), PyMongo (Mongo Magics)
+- **ExploringNewRealms**: Mastery of Enigmatic JS Frameworks & Libraries, Journeying through the Django Domain
+- **SignatureStyle**: React Revelations, Crafting Code Elegance
+- **DevOpsMagic**: Terraforming Infrastructure, Kubernetes Conjurations, AWS Alchemy, Docker Divinations
+- **WebDevelopmentTools**: Node.js Enchantments, Express.js Spells, Next.js Necromancy, TypeScript Transformations
 
 
 <hr>
