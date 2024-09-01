@@ -24,7 +24,6 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ## :zap: Skills
-
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
 </a>
@@ -37,7 +36,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://kubernetes.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
 </a>
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank">
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
 </a>
 <a href="https://www.terraform.io/" target="_blank">
@@ -55,6 +54,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
 </a>
+
 
 ### Monitoring
   
