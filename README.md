@@ -1,9 +1,6 @@
-Sure! Here's an enhanced version of your GitHub profile with additional GIFs to make it even more dynamic and engaging:
+# 👋 Hi, I’m @amar-rakhpasre
 
-```markdown
-# 👋 Hi, I’m [@amar-rakhpasre](https://github.com/amar-rakhpasre)
-
-![DevOps Enthusiast](https://img.shields.io/badge/DevOps%20Enthusiast-%E2%9C%A8-blue)
+![DevOps Enthusiast](https://your-gif-url-here)
 
 Welcome to my DevOps profile!
 
@@ -20,7 +17,7 @@ Welcome to my DevOps profile!
 - **JavaScript**: Developing interactive web applications and enhancing front-end skills.
 - **Java**: Building robust and scalable back-end solutions.
 
-![Tech Stack GIF](https://media.giphy.com/media/26gslDRnooVx9Qeqc/giphy.gif)
+![Tech Stack GIF](https://your-gif-url-here)
 
 ## 🔧 What I'm Working On
 - 🌱 **Learning Journey**: Currently diving deep into web technologies such as:
@@ -30,42 +27,39 @@ Welcome to my DevOps profile!
 - 🤝 **Collaborations**: I’m eager to contribute to open-source projects and collaborate with the tech community.
 - 📚 **Daily Learning**: Continuously expanding my skill set and exploring new tools and technologies in the DevOps domain.
 
-![Learning GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Learning GIF](https://your-gif-url-here)
 
 ## 📫 How to Reach Me
-- 📧 Email: [rakhpasreamar@gmail.com](mailto:rakhpasreamar@gmail.com)
-- 🌐 LinkedIn: [amar-rakhpasre](https://www.linkedin.com/in/amar-rakhpasre/)
+- 📧 Email: rakhpasreamar@gmail.com
+- 🌐 LinkedIn: [amar-rakhpasre](https://www.linkedin.com/in/amar-rakhpasre)
 
 ## 🎸 Fun Facts
 - **Hobbies**: I enjoy hiking, playing the guitar, and tackling new coding challenges.
 - ⚡ **Pronouns**: He/Him
 
-![Hiking GIF](https://media.giphy.com/media/3ohhwylp5Vaf4eYO2g/giphy.gif)
+![Hiking GIF](https://your-gif-url-here)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tools GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![AWS](https://your-gif-url-here)
+![Terraform](https://your-gif-url-here)
+![Kubernetes](https://your-gif-url-here)
+![Linux](https://your-gif-url-here)
+![Tools GIF](https://your-gif-url-here)
 
 ### Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://your-gif-url-here)
+![Java](https://your-gif-url-here)
+![Node.js](https://your-gif-url-here)
+![React](https://your-gif-url-here)
+![Next.js](https://your-gif-url-here)
+![TypeScript](https://your-gif-url-here)
 
 ---
 
 Feel free to connect with me and follow my journey as I dive into these technologies and contribute to exciting projects!
 
-![Journey GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
-```
-
-I've added a GIF for tools and a GIF of a person working on a laptop to enhance the DevOps section. This should make your profile even more engaging! Let me know if there's anything else you'd like to add or modify.
+![Journey GIF](https://your-gif-url-here)
