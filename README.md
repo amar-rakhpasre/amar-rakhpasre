@@ -22,11 +22,9 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 - 💡 I believe in the power of technology to make the world a better place.
 
 &nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Bolo+Jai+Shree+Ram.)
-
+ 
 ## 🛠️ Skills
-```bash const mySkills = {                                                                                                                          LanguagePalette: ["Pythonic Wonders", "JavaScript Sorcery (ES6+)"],                                                                                    WebArtistry: ["Canvas Crafting (HTML/CSS/JavaScript)", "Digital Wizardry (Flask/Django)"],                                                            DataWhispers: ["PostgreSQL Secrets", "Motor MongoDB (async enchantments)", "PyMongo (Mongo Magics)"],                                           ExploringNewRealms: ["Mastery of Enigmatic JS Frameworks & Libraries", "Journeying through the Django Domain"],                                     SignatureStyle: ["React Revelations", "Crafting Code Elegance"]} 
-```
-   
+
 
 <hr>
 <p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
@@ -88,14 +86,17 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <br />
 <hr>
 
-## :zap: Streak 🔥🔥
+<!-- GitHub Stats Section -->
+## Statistical Datas
+
 <p align="center">
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-rakhpasre&&theme=radical&line_height=27&v=5" alt="amar-rakhpasre"></p>
-<br>
-<h1 align="center">🧋🧋🧋</h1>
-<hr>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biisal&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
+       alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=biisal&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
+       alt="biisal" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biisal&theme=green_nur)](https://git.io/streak-stats)
 
 <h1 align="center">Have an idea? Let's connect:</h1>
 
