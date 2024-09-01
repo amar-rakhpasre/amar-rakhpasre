@@ -11,6 +11,43 @@ Welcome To My Place
 DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Kubernetes | Passionate about continuous learning and mastering DevOps tools.
 
 <br>
+
+## 🛠️ Skills
+```javascript const mySkills = {LanguagePalette: [
+    "Pythonic Wonders",
+    "JavaScript Sorcery (ES6+)"
+  ],
+  WebArtistry: [
+    "Canvas Crafting (HTML/CSS/JavaScript)",
+    "Digital Wizardry (Flask/Django)"
+  ],
+  DataWhispers: [
+    "PostgreSQL Secrets",
+    "Motor MongoDB (async enchantments)",
+    "PyMongo (Mongo Magics)"
+  ],
+  ExploringNewRealms: [
+    "Mastery of Enigmatic JS Frameworks & Libraries",
+    "Journeying through the Django Domain"
+  ],
+  SignatureStyle: [
+    "React Revelations",
+    "Crafting Code Elegance"
+  ],
+  DevOpsMagic: [
+    "Terraforming Infrastructure",
+    "Kubernetes Conjurations",
+    "AWS Alchemy",
+    "Docker Divinations"
+  ],
+  WebDevelopmentTools: [
+    "Node.js Enchantments",
+    "Express.js Spells",
+    "Next.js Necromancy",
+    "TypeScript Transformations"
+  ]
+}
+
 <br>
 
 - 🔭 I’m currently **learning Terraform, Kubernetes**
