@@ -98,7 +98,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 </a>
 
 <a href="https://medium.com/@amar-rakhpasre">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+<img  width="70px" src="[https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white](https://medium.com/@rakhpasreamar)" />
 </a>
 
 <a href="https://github.com/amar-rakhpasre">
