@@ -1,3 +1,6 @@
+Sure! Here's an enhanced version of your GitHub profile with additional GIFs to make it even more dynamic and engaging:
+
+```markdown
 # 👋 Hi, I’m [@amar-rakhpasre](https://github.com/amar-rakhpasre)
 
 ![DevOps Enthusiast](https://img.shields.io/badge/DevOps%20Enthusiast-%E2%9C%A8-blue)
@@ -48,6 +51,7 @@ Welcome to my DevOps profile!
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tools GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ### Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,3 +66,6 @@ Welcome to my DevOps profile!
 Feel free to connect with me and follow my journey as I dive into these technologies and contribute to exciting projects!
 
 ![Journey GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+```
+
+I've added a GIF for tools and a GIF of a person working on a laptop to enhance the DevOps section. This should make your profile even more engaging! Let me know if there's anything else you'd like to add or modify.
