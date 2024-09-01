@@ -40,9 +40,9 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
 </a>
-   <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt="mongodb" width="40" height="40"/>
-    </a>
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+</a>
 <a href="https://www.jenkins.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
 </a>
