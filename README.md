@@ -107,6 +107,12 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 
 <h1 align="center">Have an idea? Let's connect:</h1>
 
+<div align="center">
+<a align="center" href="https://amar-rakhpasre.github.io/Amar-Portfolio/">
+<img  width="70px" hight="30px" src="https://lavender-recent-caribou-726.mypinata.cloud/ipfs/QmQEimCZ1mSviAswN8SqN6pbydzduH5y8UsgTzU7bcZtJ9?pinataGatewayToken=iRX_echUAPuw1sC7L4pKGy7tWD36vi_L7WpJ89xUqH8AFbE_SlVHd-hQvdzPAFoo" />
+</a>
+</div>
+
 <div align="center" gap="20px">
 <a href="https://www.linkedin.com/in/amar-rakhpasre-72b80928a/">
 <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
@@ -119,6 +125,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://github.com/amar-rakhpasre">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
+
 </div>
 
 <div align="center" gap="20px">
