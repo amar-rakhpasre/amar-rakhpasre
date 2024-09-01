@@ -55,12 +55,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
 </a>
 
-  <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript.png" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-      <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="40" height="40"/>
-    </a>
+<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
 
 
 
