@@ -25,9 +25,14 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 
 ## 🛠️ Skills
 
-```bash const mySkills = {                                                                                                                          LanguagePalette: ["Pythonic Wonders","JavaScript Sorcery (ES6+)"],                                                                                     WebArtistry: ["Canvas Crafting (HTML/CSS/JavaScript)", "Digital Wizardry (Flask/Django)" ],                                                           DataWhispers: [ "PostgreSQL Secrets", "Motor MongoDB (async enchantments)", "PyMongo (Mongo Magics)" ],                                         ExploringNewRealms: ["Mastery of Enigmatic JS Frameworks & Libraries", "Journeying through the Django Domain"],                                     SignatureStyle: ["React Revelations", "Crafting Code Elegance"]};
-```
-
+const mySkills = {
+  LanguagePalette: ["Pythonic Wonders", "JavaScript Sorcery (ES6+)"],
+  WebArtistry: ["Canvas Crafting (HTML/CSS/JavaScript)", "Digital Wizardry (Flask/Django)"],
+  DataWhispers: ["PostgreSQL Secrets", "Motor MongoDB (async enchantments)", "PyMongo (Mongo Magics)"],
+  ExploringNewRealms: ["Mastery of Enigmatic JS Frameworks & Libraries", "Journeying through the Django Domain"],
+  SignatureStyle: ["React Revelations", "Crafting Code Elegance"]
+}
+   
 
 <hr>
 <p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
