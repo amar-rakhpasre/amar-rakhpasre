@@ -16,7 +16,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <!-- About Me Section -->
 ## 🚀 About Me
 
-- 👨‍💻 I'm a multi-lingual developer proficient in Python, Javascript, HTML, and Css.
+- 👨‍💻 I'm a multi-language developer proficient in Python, Javascript, HTML, Solidity, and Css.
 - 🌱 My first programming language was C, and I've been passionate about coding ever since.
 - 🔭 I'm constantly exploring new technologies and building exciting projects.
 - 💡 I believe in the power of technology to make the world a better place.
