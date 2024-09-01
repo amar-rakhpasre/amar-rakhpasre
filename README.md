@@ -21,7 +21,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 - ⚡ Fact **"Remember,,, Why you started."**
 
 <hr>
-<!-- <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300"> -->
+<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
 
 ## :zap: Skills
 <a href="https://www.linux.org/" target="_blank">
@@ -36,7 +36,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://kubernetes.io/" target="_blank">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
 </a>
-<!-- <a href="https://docs.gitlab.com/ee/ci/" target="_blank"> 
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
 </a>
 <a href="https://www.terraform.io/" target="_blank">
@@ -48,16 +48,12 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://www.ansible.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
 </a> -->
-<!-- <a href="https://pages.github.com/" target="_blank">
+<a href="https://pages.github.com/" target="_blank">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-</a> -->
-
-<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
-
-
+</a>
 
 ### Monitoring
   
