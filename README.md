@@ -1,65 +1,113 @@
-# 👋 Hi, I’m [@amar-rakhpasre](https://github.com/amar-rakhpasre)
+<p align="center">
+<h2 align="center"> 
+Welcome To My Place 
+</h2></p>
 
-![DevOps Enthusiast](https://img.shields.io/badge/DevOps%20Enthusiast-%E2%9C%A8-blue)
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-Welcome to my DevOps profile!
+<hr>
+<h2 align="center">👋 Hi, I’m Amar</h2>
+DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Kubernetes | Passionate about continuous learning and mastering DevOps tools.
 
-## 🚀 About Me
-🌟 **DevOps Enthusiast**: I'm passionate about continuous learning and mastering a wide range of DevOps tools.
+<br>
+<br>
 
-💼 **Tech Stack**: I’m currently exploring and implementing the following tools and technologies:
-- **Linux**: Deepening my knowledge of the Linux operating system.
-- **AWS Cloud**: Learning AWS services and best practices.
-- **SSH**: Understanding secure shell operations and configurations.
-- **Networking**: Enhancing my networking skills and protocols.
-- **Kubernetes**: Gaining expertise in container orchestration.
-- **Terraform**: Mastering infrastructure as code (IaC) with Terraform.
-- **JavaScript**: Developing interactive web applications and enhancing front-end skills.
-- **Java**: Building robust and scalable back-end solutions.
+- 🔭 I’m currently **learning Terraform, Kubernetes**
+- 📝 I regularly post articles on **Various DevOps Concepts**
 
-![Tech Stack GIF](https://media.giphy.com/media/26gslDRnooVx9Qeqc/giphy.gif)
+- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Terraform**
 
-## 🔧 What I'm Working On
-- 🌱 **Learning Journey**: Currently diving deep into web technologies such as:
-  - HTML, CSS, JavaScript
-  - Node.js, Express.js
-  - React.js, Next.js, TypeScript
-- 🤝 **Collaborations**: I’m eager to contribute to open-source projects and collaborate with the tech community.
-- 📚 **Daily Learning**: Continuously expanding my skill set and exploring new tools and technologies in the DevOps domain.
+- ⚡ Fact **"Remember,,, Why you started."**
 
-![Learning GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<hr>
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
-## 📫 How to Reach Me
-- 📧 Email: [rakhpasreamar@gmail.com](mailto:rakhpasreamar@gmail.com)
-- 🌐 LinkedIn: [amar-rakhpasre](https://www.linkedin.com/in/amar-rakhpasre/)
+## :zap: Skills
 
-## 🎸 Fun Facts
-- **Hobbies**: I enjoy hiking, playing the guitar, and tackling new coding challenges.
-- ⚡ **Pronouns**: He/Him
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+</a>
+<a href="https://docs.gitlab.com/ee/ci/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+</a>
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+</a>
+<a href="https://www.ansible.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
+</a>
+<a href="https://pages.github.com/" target="_blank">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+</a>
 
-![Hiking GIF](https://media.giphy.com/media/3ohhwylp5Vaf4eYO2g/giphy.gif)
+### Monitoring
+  
+<p float="left">
+<a href="https://grafana.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+</a>
+<a href="https://prometheus.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+</a>
+</p>
+  
+<br>
 
----
+<hr>
 
-## 🛠️ Tools & Technologies
+## :zap: Profile Views
+<p align="center"> 
+  <br>
+  <br>
+  <img src="https://profile-counter.glitch.me/amar-rakhpasre/count.svg" />
+</p>
+<br >
+<br />
+<hr>
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tools GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+## :zap: Streak 🔥🔥
+<p align="center">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-rakhpasre&&theme=radical&line_height=27&v=5" alt="amar-rakhpasre"></p>
+<br>
+<h1 align="center">🧋🧋🧋</h1>
+<hr>
 
-### Web Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<h1 align="center">Have an idea? Let's connect:</h1>
 
----
+<div align="center" gap="20px">
+<a href="https://www.linkedin.com/in/amar-rakhpasre/">
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
 
-Feel free to connect with me and follow my journey as I dive into these technologies and contribute to exciting projects!
+<a href="https://medium.com/@amar-rakhpasre">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+</a>
 
-![Journey GIF](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+<a href="https://github.com/amar-rakhpasre">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
+
+<div align="center" gap="20px">
+<a href="https://twitter.com/amar-rakhpasre">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
+</a>
+</div>
