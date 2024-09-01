@@ -48,12 +48,12 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <a href="https://www.ansible.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
 </a>
-<a href="https://pages.github.com/" target="_blank">
+<!-- <a href="https://pages.github.com/" target="_blank">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-</a>
+</a> -->
 
 <p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
 
