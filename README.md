@@ -21,7 +21,7 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 - 🔭 I'm constantly exploring new technologies and building exciting projects.
 - 💡 I believe in the power of technology to make the world a better place.
 
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hare+Krishna+😊;Welcome+To+My+Profile.;Bolo+Jai+Shree+Ram.)
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile.;Full+Stack+.NET+Developer;Web+Application+Developer;ERP/CRM+Application+Developer;SaaS+Application+Developer;SEO-Friendly+Web+Developer.)
  
 ## 🛠️ Skills
 - **LanguagePalette**: Pythonic Wonders, JavaScript Sorcery (ES6+)
