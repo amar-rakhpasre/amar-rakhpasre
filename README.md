@@ -7,7 +7,7 @@
 
 <hr>
 <h2 align="center">👋 Hi, I’m Amar</h2>
-DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Kubernetes | Passionate about continuous learning and mastering DevOps tools.
+Building Scalable Web Applications | SQL Server & API Integration | Passionate Learner | Open to Full-Stack Roles
 
 <br>
 <br>
