@@ -1,7 +1,6 @@
 <p align="center">
-<h2 align="center"> 
-Welcome To My Place 
-</h2></p>
+  <h2 align="center">Welcome To My Place 🚀</h2>
+</p>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello Matrix">
@@ -14,122 +13,60 @@ DevOps Enthusiast | Linux | AWS Cloud | GitLab | CI/CD | Terraform | Docker | Ku
 <br>
 
 <!-- About Me Section -->
-## 🚀 About Me
+## 🚀 About Me  
 
-- 👨‍💻 I'm a multi-language developer proficient in Python, Javascript, HTML, Solidity, and Css.
-- 🌱 My first programming language was C, and I've been passionate about coding ever since.
-- 🔭 I'm constantly exploring new technologies and building exciting projects.
-- 💡 I believe in the power of technology to make the world a better place.
+- 👨‍💻 I’m a **B.Sc. IT graduate** and an **aspiring Full-Stack .NET Developer**.  
+- 🌐 Skilled in **Frontend (HTML, CSS, JavaScript, Bootstrap)** for responsive and accessible UIs.  
+- ⚙️ Experienced with **Backend (ASP.NET Core MVC, Web API, ADO.NET, SQL Server)** for secure, scalable applications.  
+- 📊 Basic understanding of **SEO-friendly web practices** to improve website performance and visibility.  
+- 💡 Always learning, adapting, and exploring **new tools & best practices** to grow as a developer.  
 
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile.;Full+Stack+.NET+Developer;Web+Application+Developer;ERP/CRM+Application+Developer;SaaS+Application+Developer;SEO-Friendly+Web+Developer.)
- 
-## 🛠️ Skills
-- **LanguagePalette**: Pythonic Wonders, JavaScript Sorcery (ES6+)
-- **WebArtistry**: Canvas Crafting (HTML/CSS/JavaScript), Digital Wizardry (Flask/Django)
-- **DataWhispers**: PostgreSQL Secrets, Motor MongoDB (async enchantments), PyMongo (Mongo Magics)
-- **ExploringNewRealms**: Mastery of Enigmatic JS Frameworks & Libraries, Journeying through the Django Domain
-- **SignatureStyle**: React Revelations, Crafting Code Elegance
-- **DevOpsMagic**: Terraforming Infrastructure, Kubernetes Conjurations, AWS Alchemy, Docker Divinations
-- **WebDevelopmentTools**: Node.js Enchantments, Express.js Spells, Next.js Necromancy, TypeScript Transformations
+&nbsp; &nbsp; ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile.😊;Full-Stack+.NET+Developer;Frontend+Developer;Backend+Developer;Web+Application+Developer;SEO-Friendly+Web+Developer.)
 
+---
 
-<hr>
-<p><img align="right" height="400" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"></p>
+## 🛠️ Skills  
 
-## :zap: Skills
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"  height="90" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-</a>
-<a href="https://docs.gitlab.com/ee/ci/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-</a>
-<a href="https://www.terraform.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-</a>
-<a href="https://www.jenkins.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
-</a>
-<a href="https://www.ansible.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
-</a> -->
-<a href="https://pages.github.com/" target="_blank">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-</a>
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), Bootstrap  
+- **Backend Development**: ASP.NET Core MVC, Web API, ADO.NET, C#  
+- **Database**: SQL Server (design, queries, optimization)  
+- **Version Control**: Git & GitHub for collaboration  
+- **Other**: Responsive design, SEO basics, performance optimization  
 
-### Monitoring
-  
-<p float="left">
-<a href="https://grafana.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-</a>
-<a href="https://prometheus.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-</a>
-</p>
-  
-<br>
+---
 
-<hr>
+## :zap: Tech Stack  
 
-## :zap: Profile Views
-<p align="center"> 
-  <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/amar-rakhpasre/count.svg" />
-</p>
-<br >
-<br />
-<hr>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" height="90" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" height="75" /></a>
+<a href="#"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="75" /></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" height="75" /></a>
 
-<!-- GitHub Stats Section -->
-## Statistical Datas
+---
 
-<p align="center" gap="20px">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biisal&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff"
-       alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=biisal&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact"
-       alt="biisal" />
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amar-rakhpasre&show_icons=true&line_height=37&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-rakhpasre&langs_count=20&show_icons=true&locale=en&bg_color=0d1117&text_color=F0184E&layout=compact" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=biisal&theme=green_nur)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amar-rakhpasre&theme=green_nur)](https://git.io/streak-stats)
 
-<h1 align="center">Have an idea? Let's connect:</h1>
+---
 
-<div align="center">
-<a align="center" href="https://amar-rakhpasre.github.io/Amar-Portfolio/">
-<img  width="70px" hight="30px" src="https://lavender-recent-caribou-726.mypinata.cloud/ipfs/QmQEimCZ1mSviAswN8SqN6pbydzduH5y8UsgTzU7bcZtJ9?pinataGatewayToken=iRX_echUAPuw1sC7L4pKGy7tWD36vi_L7WpJ89xUqH8AFbE_SlVHd-hQvdzPAFoo" />
-</a>
-</div>
+## 🌍 Connect With Me  
 
-<div align="center" gap="20px">
-<a href="https://www.linkedin.com/in/amar-rakhpasre-72b80928a/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@amar-rakhpasre">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://github.com/amar-rakhpasre">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center" gap="20px">
-<a href="https://twitter.com/amar-rakhpasre">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
-</a>
-</div>
+<p align="center">
+  <a href="https://amar-rakhpasre.github.io/Amar-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&logo=google-chrome&logoColor=white" height="30"></a>
+  <a href="https://www.linkedin.com/in/amar-rakhpasre-72b80928a/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&logo=linkedin&logoColor=white" height="30"></a>
+  <a href="https://github.com/amar-rakhpasre"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=white" height="30"></a>
+  <a href="https://medium.com/@amar-rakhpasre"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&logo=medium&logoColor=white" height="30"></a>
+  <a href="https://twitter.com/amar-rakhpasre"><img src="https://img.shields.io/badge/Twitter-%2312100E.svg?&logo=twitter&logoColor=white" height="30"></a>
+</p>
